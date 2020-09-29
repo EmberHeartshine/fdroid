@@ -1,0 +1,29 @@
+AntiFeatures:Ads
+Categories:Connectivity,Internet
+License:GNU GPL 2.1
+Web Site:https://ugetdm.com/
+Source Code:https://sourceforge.net/p/urlget/uget-android/ci/master/tree/
+Issue Tracker:https://ugetdm.com/qa/
+Changelog:https://ugetdm.com/blog/
+Donate:https://ugetdm.com/donate/
+
+Summary:uGet Download Manager
+Description:
+A powerful multi-threaded download manager based on a popular multi-platform DM.
+
+Features:
+
+* Direct download videos from Youtube
+* Clipboard Monitor
+* Multiple Connection Support
+* Pause/Resume Downloads
+* Optional Aria2 Plug-In
+* Manual Throttling
+* Download Categorization
+
+Please note that this app is sourced pre-compiled from SourceForge and is not
+compiled by the repo maintainer.
+.
+
+Auto Update Mode:None
+Update Check Mode:None

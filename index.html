@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Ember's Unofficial F-Droid Repository</title>
+		<meta name="viewport" content="width=device-width">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/img/fav-32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/img/fav-16.png" sizes="16x16">
+		<script src="gettext.js"></script>
+	</head>
+	<body onload="initializeBody();">
+		<h1>Ember's Unofficial F-Droid Repo</h1>
+		<div id="container">
+			<img src="https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/img/repo-qr.png" alt="Scan to add repo to F-Droid">
+			<p>This repository allows F-Droid users to install Freedoom, uGet and Signal on their device without going through Google Play. These apks are sourced pre-compiled from the respective app developers and are not compiled by the repo maintainer.</p>
+			<p>To begin, scan the QR code above or enter the following URL into F-Droid:</p>
+			<p id="mono">https://fdroid.heartshine.xyz/repo</p>
+			<p>Software offered:</p>
+			<ul>
+				<li>Freedoom: A GZDoom port to Android with on-screen touch controls. <span id="freedoom"></span>(<a href="https://github.com/mkrupczak3/Freedoom-for-Android/">GitHub</a>)</li>
+				<li>uGet: a powerful multi-threaded download manager. <span id="uget"></span>(<a href="https://ugetdm.com/">Homepage</a>, <a href="https://sourceforge.net/projects/urlget/files/uGet%20for%20Android/">Sourceforge</a>)</li>
+				<li>Signal: encrypted chat, video and audio calling, group messages and more for the privacy-conscious. <span id="signal"></span>(<a href="https://signal.org/">Homepage</a>, <a href="https://github.com/signalapp/Signal-Android">GitHub</a>)</li>
+			</ul>
+			<p>**I have noticed increased traffic coming from Tor endpoints lately, and have adjusted my Cloudflare firewall to accommodate. Tor users should no longer be blocked from this repo.<br />-Ember</p>
+		</div>
+	</body>
+</html>
+

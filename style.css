@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'ArchivoBold';
+	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/archivo-bold.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/archivo-bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'D-DinRegular';
+	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/d-din-regular.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/d-din-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'FantasqueSansMonoRegular';
+	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/fantasquesansmono-regular.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/fantasquesansmono-regular.woff') format('woff');
+}
+body{
+	background-color: #12005e;
+}
+h1{
+	font-family: ArchivoBold, sans-serif;
+	font-size: 2.2em;
+	text-align: center;
+	color: #e0e1e0;
+	text-shadow: 2px 2px 4px #000;
+}
+img{
+	max-width: 75%;
+	width: 400px;
+}
+p{
+	font-family: D-DinRegular, sans-serif;
+	font-size: 1em;
+	color: #e0e1e0;
+	text-shadow: 1px 1px 2px #000;
+	max-width: 800px;
+	margin: 14px auto;
+}
+ul{
+	list-style-type: disc;
+	font-family: D-DinRegular, sans-serif;
+	font-size: 1em;
+	color: #e0e1e0;
+	text-shadow: 1px 1px 2px #000;
+	margin: 14px auto;
+	max-width: 800px;
+	text-align: justify;
+        text-justify: inter-word;
+	margin: 0px auto 0px auto;
+}
+ul li{
+	margin-top: 4px;
+}
+ul li a{
+	color: #e0e1e0;
+}
+div#container{
+	width: 100%;
+	text-align: center;
+}
+p#mono{
+	font-family: 'FantasqueSansMonoRegular', monospace;
+}
