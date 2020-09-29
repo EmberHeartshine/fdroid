@@ -1,0 +1,3 @@
+v2.2.1 Changes:
+New: Add x86 64-bit library.
+Fix: Program crash if user remove task when displaying progress dialog.

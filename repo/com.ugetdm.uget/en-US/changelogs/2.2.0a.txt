@@ -1,0 +1,11 @@
+v2.2.0a Changes:
+Fix: User must restart app after changing plug-in matching order.
+
+v2.2.0 Changes:
+New: Add menu item for torrent/metalink if user enable aria2 plug-in.
+New: Add arm 64-bit library.
+Enhancement: Use quicksort to sort downloads.
+Enhancement: Change default value of option "Skip existing URI."
+Fix: If user rotate device when sorting downloads, program crash.
+Fix: All downloaded folder in external SD Card must be reselected after device reboot.
+Fix: Program may crash if it grant document permission.
