@@ -1,17 +1,17 @@
 @font-face {
 	font-family: 'ArchivoBold';
-	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/archivo-bold.woff2') format('woff2'),
-		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/archivo-bold.woff') format('woff');
+	src:	url('/font/archivo-bold.woff2') format('woff2'),
+		url('/font/archivo-bold.woff') format('woff');
 }
 @font-face {
 	font-family: 'D-DinRegular';
-	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/d-din-regular.woff2') format('woff2'),
-		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/d-din-regular.woff') format('woff');
+	src:	url('/font/d-din-regular.woff2') format('woff2'),
+		url('/font/d-din-regular.woff') format('woff');
 }
 @font-face {
 	font-family: 'FantasqueSansMonoRegular';
-	src:	url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/fantasquesansmono-regular.woff2') format('woff2'),
-		url('https://raw.githubusercontent.com/EmberHeartshine/heartshine.xyz/master/font/fantasquesansmono-regular.woff') format('woff');
+	src:	url('/font/fantasquesansmono-regular.woff2') format('woff2'),
+		url('/font/fantasquesansmono-regular.woff') format('woff');
 }
 body{
 	background-color: #12005e;
