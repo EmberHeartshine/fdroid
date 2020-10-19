@@ -1,1 +1,1 @@
-#[Go here](https://fdroid.heartshine.xyz/)
+# [Go here](https://fdroid.heartshine.xyz/)
