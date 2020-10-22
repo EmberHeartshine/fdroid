@@ -53,6 +53,9 @@ ul li{
 ul li a{
 	color: #e0e1e0;
 }
+a:visited{
+	color: #e0e1e0;
+}
 div#container{
 	width: 100%;
 	text-align: center;
