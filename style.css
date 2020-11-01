@@ -50,7 +50,7 @@ ul{
 ul li{
 	margin-top: 4px;
 }
-ul li a{
+ul li a,p a{
 	color: #e0e1e0;
 }
 a:visited{
