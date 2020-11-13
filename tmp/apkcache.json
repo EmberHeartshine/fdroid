@@ -16207,5 +16207,318 @@
     "apkName": "Signal-website-universal-release-4.75.8.apk",
     "icon": "org.thoughtcrime.securesms.7320.png",
     "added": 1604718098.643878
+  },
+  "Signal-Android-website-prod-universal-release-4.76.3.apk": {
+    "hash": "752a88c6b85986bb301a4f07cfe68e29dd79f087af826576359115af6ed00af2",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "org.thoughtcrime.securesms.ACCESS_SECRETS",
+        null
+      ],
+      [
+        "android.permission.READ_PROFILE",
+        null
+      ],
+      [
+        "android.permission.WRITE_PROFILE",
+        null
+      ],
+      [
+        "android.permission.BROADCAST_WAP_PUSH",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.WRITE_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NOTIFICATION_POLICY",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_SMS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_MMS",
+        null
+      ],
+      [
+        "android.permission.READ_SMS",
+        null
+      ],
+      [
+        "android.permission.SEND_SMS",
+        null
+      ],
+      [
+        "android.permission.WRITE_SMS",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        28
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_CALL_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.WRITE_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.AUTHENTICATE_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.BROADCAST_STICKY",
+        null
+      ],
+      [
+        "android.permission.CALL_PHONE",
+        null
+      ],
+      [
+        "android.permission.DISABLE_KEYGUARD",
+        null
+      ],
+      [
+        "android.permission.RAISED_THREAD_PRIORITY",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.thoughtcrime.securesms.7360.xml",
+      "640": "org.thoughtcrime.securesms.7360.png",
+      "480": "org.thoughtcrime.securesms.7360.png",
+      "320": "org.thoughtcrime.securesms.7360.png",
+      "240": "org.thoughtcrime.securesms.7360.png",
+      "160": "org.thoughtcrime.securesms.7360.png",
+      "0": "org.thoughtcrime.securesms.7360.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.thoughtcrime.securesms",
+    "versionCode": 7360,
+    "name": "Signal",
+    "versionName": "4.76.3",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
+    "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
+    "size": 74412671,
+    "apkName": "Signal-Android-website-prod-universal-release-4.76.3.apk",
+    "icon": "org.thoughtcrime.securesms.7360.png",
+    "added": 1605278515.870036
   }
 }
