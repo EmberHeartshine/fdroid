@@ -8,7 +8,7 @@ Donate:https://signal.org/donate/
 
 Summary:Fast, simple, secure. Privacy that fits in your pocket.
 Description:
-<b>Please note that the signed release has changed. I am no longer distributing the OWS website release; rather, I am now distributing a community-maintained fork that has all GApps dependencies removed. You will need to back up your chats, uninstall Signal, re-install Signal from this repo, then restore your chats to continue using this repo. I apologize for any inconvenience. -Ember</b>
+**Please note that the signed release has changed. I am no longer distributing the OWS website release; rather, I am now distributing a community-maintained fork that has all GApps dependencies removed. You will need to back up your chats, uninstall Signal, re-install Signal from this repo, then restore your chats to continue using this repo. I apologize for any inconvenience. -Ember**
 
 Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
