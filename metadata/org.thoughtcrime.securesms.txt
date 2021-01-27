@@ -8,12 +8,9 @@ Donate:https://signal.org/donate/
 
 Summary:Fast, simple, secure. Privacy that fits in your pocket.
 Description:
-Millions of people use Signal every day for free and instantaneous communication
-anywhere in the world. Send and receive high-fidelity messages, participate in
-HD voice/video calls, and explore a growing set of new features that help you
-stay connected. Signal’s advanced privacy-preserving technology is always
-enabled, so you can focus on sharing the moments that matter with the people who
-matter to you.
+<b>Please note that the signed release has changed. I am no longer distributing the OWS website release; rather, I am now distributing a community-maintained fork that has all GApps dependencies removed. You will need to back up your chats, uninstall Signal, re-install Signal from this repo, then restore your chats to continue using this repo. I apologize for any inconvenience. -Ember</b>
+
+Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
 * Say anything: State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn't an optional mode -- it's just the way that Signal works. Every message, every call, every time.
 * Go fast: Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible.
@@ -24,8 +21,7 @@ matter to you.
 * Sound familiar: Choose custom alerts for each contact, or disable noises completely. Simon & Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing "None" as your notification ringtone.
 * Picture this: Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There's even a text tool so that you can add more words to the 1,000 that your picture is already worth.
 
-Please note that this app is sourced pre-compiled from Open Whisper Systems and
-is not compiled by the repo maintainer.
+Please note that this app is sourced pre-compiled from Twin Helix and is not compiled by the repo maintainer.
 .
 
 Auto Update Mode:None
