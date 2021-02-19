@@ -1,6 +1,6 @@
 function getTextFromFile( file, element ) {
 	var txtFile = new XMLHttpRequest();
-	var allText = "file not found";
+	var allText = "";
 	txtFile.open( "GET", file, true );
 	txtFile.onreadystatechange = function () {
 		if ( txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200 ) {
