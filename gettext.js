@@ -11,7 +11,6 @@ function getTextFromFile( file, element ) {
 	txtFile.send();
 }
 function initializeBody() {
-	getTextFromFile('/ver/freedoom.txt','freedoom');
 	getTextFromFile('/ver/uget.txt','uget');
 	getTextFromFile('/ver/signal.txt','signal');
 }

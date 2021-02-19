@@ -1,2 +1,0 @@
-v2.2.2 Changes:
-Fix: Can't grab media title from YouTube.
