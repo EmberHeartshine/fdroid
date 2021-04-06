@@ -21,8 +21,7 @@ Features:
 * Manual Throttling
 * Download Categorization
 
-Please note that this app is sourced pre-compiled from SourceForge and is not
-compiled by the repo maintainer.
+Please note that this app is sourced pre-compiled from SourceForge and is not compiled by the repo maintainer.
 .
 
 Auto Update Mode:None

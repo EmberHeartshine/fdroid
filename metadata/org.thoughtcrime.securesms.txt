@@ -1,15 +1,13 @@
-Categories:Phone & SMS,Internet
+Categories:Phone & SMS,Internet,Messaging
 License:GNU GPL 3.0
 Web Site:https://signal.org/
-Source Code:https://github.com/signalapp/Signal-Android
+Source Code:https://github.com/tw-hx/Signal-Android/
 Issue Tracker:https://github.com/signalapp/Signal-Android/issues
-Changelog:https://signal.org/blog/
+Changelog:https://www.twinhelix.com/apps/signal-foss/
 Donate:https://signal.org/donate/
 
 Summary:Fast, simple, secure. Privacy that fits in your pocket.
 Description:
-**Please note that the signed release has changed. I am no longer distributing the OWS website release; rather, I am now distributing a community-maintained fork that has all GApps dependencies removed. You will need to back up your chats, uninstall Signal, re-install Signal from this repo, then restore your chats to continue using this repo. I apologize for any inconvenience. -Ember**
-
 Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
 * Say anything: State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn't an optional mode -- it's just the way that Signal works. Every message, every call, every time.

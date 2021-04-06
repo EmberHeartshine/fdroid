@@ -1,3 +1,4 @@
 Connectivity
 Internet
+Messaging
 Phone & SMS
