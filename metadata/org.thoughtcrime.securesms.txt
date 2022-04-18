@@ -8,6 +8,14 @@ Donate:https://signal.org/donate/
 
 Summary:Fast, simple, secure. Privacy that fits in your pocket.
 Description:
+***IMPORTANT***
+THIS REPOSITORY IS BEING DISCONTINUED ON 01-MAY-2022.
+
+Please switch to the official Signal-FOSS repo. The signature for the app is the same in both repos, so there should be no disruption to your existing Signal-FOSS install.
+
+Homepage: https://www.twinhelix.com/apps/signal-foss/
+Repo: https://fdroid.twinhelix.com/fdroid/repo
+
 Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
 * Say anything: State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn't an optional mode -- it's just the way that Signal works. Every message, every call, every time.
